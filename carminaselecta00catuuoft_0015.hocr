@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carminaselecta00catuuoft_0015.png"; bbox 0 0 1747 2620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 433 296 1118 398">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 433 296 1118 398">
+     <span class='ocr_line' id='line_1_1' title="bbox 433 296 1118 398; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 433 296 1118 398; x_wconf 87' lang='lat' dir='ltr'>CATVLLI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 504 452 1052 512">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 504 452 1052 512">
+     <span class='ocr_line' id='line_1_2' title="bbox 504 452 1052 512; baseline 0.007 -4"><span class='ocrx_word' id='word_1_2' title='bbox 504 452 1052 512; x_wconf 88' lang='lat' dir='ltr'>VERONENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 564 575 984 605">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 564 575 984 605">
+     <span class='ocr_line' id='line_1_3' title="bbox 564 575 984 605; baseline 0.007 -3"><span class='ocrx_word' id='word_1_3' title='bbox 564 575 686 603; x_wconf 77' lang='lat' dir='ltr'>CARM</span> <span class='ocrx_word' id='word_1_4' title='bbox 693 576 770 604; x_wconf 85' lang='lat' dir='ltr'>INA</span> <span class='ocrx_word' id='word_1_5' title='bbox 806 577 984 605; x_wconf 82' lang='lat' dir='ltr'>SELECTA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 630 743 919 764">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 630 743 919 764">
+     <span class='ocr_line' id='line_1_4' title="bbox 630 743 919 764; baseline 0.01 -3"><span class='ocrx_word' id='word_1_6' title='bbox 630 743 757 762; x_wconf 75' lang='lat' dir='ltr'>TABVLIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 780 745 841 763; x_wconf 77' lang='lat' dir='ltr'>ORN</span> <span class='ocrx_word' id='word_1_8' title='bbox 845 745 919 764; x_wconf 54' lang='lat'>.....</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 482 1775 1042 1957">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 482 1775 1042 1957">
+     <span class='ocr_line' id='line_1_5' title="bbox 675 1775 857 1802; baseline 0.005 -1"><span class='ocrx_word' id='word_1_9' title='bbox 675 1775 857 1802; x_wconf 87' lang='lat' dir='ltr'>LONDINI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 482 1852 1042 1880; baseline 0.004 -2"><span class='ocrx_word' id='word_1_10' title='bbox 482 1853 526 1878; x_wconf 83' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_11' title='bbox 551 1852 727 1879; x_wconf 82' lang='lat' dir='ltr'>AEDIBVS</span> <span class='ocrx_word' id='word_1_12' title='bbox 749 1854 791 1880; x_wconf 85' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_13' title='bbox 818 1853 861 1880; x_wconf 86' lang='lat' dir='ltr'>H.</span> <span class='ocrx_word' id='word_1_14' title='bbox 886 1853 1042 1880; x_wconf 78' lang='lat' dir='ltr'>BVLLEN</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 693 1929 841 1957; baseline 0 -1"><span class='ocrx_word' id='word_1_15' title='bbox 693 1929 841 1957; x_wconf 83' lang='lat' dir='ltr'>MCMVI</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
